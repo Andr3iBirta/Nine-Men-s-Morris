@@ -1,0 +1,5 @@
+K:/Other computers/My Computer/Personal Projects/Moara/cmake-build-debug/CMakeFiles/Moara.dir
+K:/Other computers/My Computer/Personal Projects/Moara/cmake-build-debug/CMakeFiles/edit_cache.dir
+K:/Other computers/My Computer/Personal Projects/Moara/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+K:/Other computers/My Computer/Personal Projects/Moara/cmake-build-debug/CMakeFiles/Moara_autogen_timestamp_deps.dir
+K:/Other computers/My Computer/Personal Projects/Moara/cmake-build-debug/CMakeFiles/Moara_autogen.dir
